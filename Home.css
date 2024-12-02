@@ -9,6 +9,7 @@
 }
 body {
     background-color: #000000;
+    background-image: url(noise2.png);
     color: #7CFC00;
     font-family: 'DungGeunMo', sans-serif;
     display: flex;
